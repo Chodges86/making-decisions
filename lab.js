@@ -104,6 +104,10 @@ for (let i = 1; i <= 10; i++) {
 
 //CODE HERE
 
+for (let i = 1; i <= 10; i++) {
+  console.log(i)
+}
+
 ////////// PROBLEM 7 //////////
 
 /*
